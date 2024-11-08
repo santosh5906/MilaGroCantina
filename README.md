@@ -25,6 +25,7 @@ This project involved developing a data-driven dashboard for Milagro Cantina to 
 5. **Data-Driven Recommendations**:
    - Based on dashboard insights, actionable recommendations were made to improve profitability:
      - **Menu Optimization**: Suggested combining popular dishes into meal packages offered at reasonable prices to enhance appeal and increase average ticket sizes.
+     - **Customer Churn Analysis**: Proposed discounts and offer based upon customer spending habits. 
      - **Inventory Optimization**: Proposed adjustments to inventory procurement based on sales patterns, reducing waste and optimizing stock levels for frequently sold items.
 
 6. **Results**:
