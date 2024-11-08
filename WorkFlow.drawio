@@ -52,31 +52,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VY5MfFwBhd-DhnV7DkUw-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="550" as="sourcePoint" />
-            <mxPoint x="500" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VY5MfFwBhd-DhnV7DkUw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=30;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VY5MfFwBhd-DhnV7DkUw-4" target="VY5MfFwBhd-DhnV7DkUw-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VY5MfFwBhd-DhnV7DkUw-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="550" as="sourcePoint" />
-            <mxPoint x="500" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VY5MfFwBhd-DhnV7DkUw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="560cyLqUuOO_lIKh5aCF-2" target="VY5MfFwBhd-DhnV7DkUw-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VY5MfFwBhd-DhnV7DkUw-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="550" as="sourcePoint" />
-            <mxPoint x="500" y="500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VY5MfFwBhd-DhnV7DkUw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.057;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="560cyLqUuOO_lIKh5aCF-15" target="VY5MfFwBhd-DhnV7DkUw-5">
           <mxGeometry relative="1" as="geometry" />
@@ -104,6 +86,9 @@
             <mxPoint x="-270" y="19.999999999999886" as="sourcePoint" />
             <mxPoint y="29.999999999999886" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VY5MfFwBhd-DhnV7DkUw-21" value="Project flow for Milagro Cantina" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
